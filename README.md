@@ -1,5 +1,5 @@
 
-![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*cfmRtbFOaB8q1Icn8EBsjw.png)
+
 <h1 align="center"></h1>
 <h3 align="center">A passionate student from Turkey trying to become a mobile developer</h3>
 
