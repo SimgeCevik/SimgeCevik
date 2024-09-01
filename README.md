@@ -1,6 +1,6 @@
 
 ![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*cfmRtbFOaB8q1Icn8EBsjw.png)
-<h1 align="center">Hi 👋, I'm Simge Çevik</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate student from Turkey trying to become a mobile developer</h3>
 
 - 🌱 I’m currently learning **Java and Swift**
